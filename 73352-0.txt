@@ -1056,7 +1056,7 @@ faculty for penetrating to one’s real true, inmost opinion.
 “Not more,” she said boldly, “but I know as much of Little Arthur’s
 History as there is in the book, and auntie can’t take me any further
 in French or fractions, and she never has time to give me proper music
-lessons I only do scales, and Weber’s Last Valse, by myself. And I can
+lessons. I only do scales, and Weber’s Last Valse, by myself. And I can
 _feel_ I’m not getting on, Grandpapa--and I do so want to.”
 
 “Why?”
@@ -7347,6 +7347,7 @@ TRANSCRIBER’S NOTES:
 
   New original cover art included with this eBook is granted to the
     public domain.
+
 
 
 
